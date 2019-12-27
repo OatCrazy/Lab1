@@ -1,0 +1,195 @@
+
+/*Reset*/
+*{
+    margin: 0;
+    padding: 0;
+}
+/*Class*/
+.clearfix{
+    clear: both;
+}
+.container{
+    width: 960;
+    margin: 0 auto;
+    height: 90px;
+}
+
+
+Home {
+    margin-left: 150px;
+    float: left; 
+}
+Buttom_Gallery{
+    margin-left: 300px;
+     
+}
+Buttom_Contact{
+    margin-left: 400px;
+    
+}
+
+Image_Profile{
+    position: absolute;
+    left: 1020px;
+    bottom: 275px;
+}
+
+/*
+Image_Profile{
+    margin-left: 1000px;
+    position: absolute;
+    bottom: 395px;
+}
+*/
+
+
+
+/*ID #*/
+
+/* id = "Font_BySet_5"*/
+
+#Font_BySet_1{
+    font-size: 48px;
+    font-weight: bold;
+    margin-left: 10px ;
+}
+
+#Font_BySet_2{
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 10px ;
+}
+
+#Font_BySet_3{
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 10px ;
+}
+
+#Font_BySet_4{
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+#Font_BySet_5{
+    font-size: 48px;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+
+
+
+#Sel1{
+    font-weight: bold;
+    font-size:  30px;
+    margin-top: 1px;
+    margin-left: 5px ;
+}
+
+
+Pskill1{
+    font-weight: bold;
+    font-size:  30px;
+    margin-left: 20px;
+}
+
+Pskill2{
+    font-weight: bold;
+    font-size:  30px;
+    margin-left: 175px;
+}
+
+Pskill3{
+    font-weight: bold;
+    font-size:  30px;
+    margin-left: 20px;
+}
+
+Pskill4{
+    font-weight: bold;
+    font-size:  30px;
+    margin-left: 175px;
+}
+
+Pskill5{
+    font-weight: bold;
+    font-size:  30px;
+    margin-left: 160px;
+}
+
+Pskill6{
+    font-weight: bold;
+    font-size:  30px;
+    margin-left: 20px;
+}
+
+
+#Sel2{
+    font-weight: bold;
+    font-size:  30px;
+    margin-top: 1px;
+    margin-left: 30px ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.block1{
+    margin-top: 45px;
+    margin-left: 15px;
+    width: 1500px;
+    height: 310px;
+    border-style: solid;
+    
+}
+
+.block2{
+    margin-top: 45px;
+    margin-left: 15px;
+    width: 1500px;
+    height: 150px;
+    border-style: solid;
+}
+
+.block3{
+    margin-top: 5px;
+    margin-left: 15px;
+    width: 1500px;
+    height: 50px;
+
+}
+
+
+
+
+
+
+
+
+
+#d{
+    font-family:arial;
+    color:rgb(123, 255, 0);
+}
+.c1{
+    font-family:arial;
+}
+.c2{
+    color:rgb(123, 255, 0);
+}
